@@ -1,15 +1,19 @@
-### Hi there 👋
-<!--
-**Hari-nk7/Hari-nk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋
 
-Here are some ideas to get you started:
+I build things. Mostly messy at first, useful later.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning flutter language 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: emailid : hharrii05@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+Engineering student exploring AI, security, and real-world software — not just tutorial projects.
+
+- 🔭 Currently building: AI tools, accessibility apps, compliance platform  
+- 🌱 Learning: Flutter, practical cybersecurity, better system design  
+- 👯 Open to: collabs, hackathons, strange but useful ideas  
+- 💬 Ask me about: Python, beginner web dev, project building from scratch  
+- 📫 Reach me: hharrii05@gmail.com  
+
+**Recent rabbit holes**
+- Voice-based tech for accessibility  
+- Argument analysis with AI  
+- Offline ML apps  
+- “Build first, polish later” workflow  
+
+> I like projects that do something real — even if they’re imperfect.
