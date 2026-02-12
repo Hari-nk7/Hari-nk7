@@ -25,13 +25,6 @@ Engineering student → learning by shipping projects instead of collecting tuto
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hari-nk7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-nk7&theme=tokyonight" />
-</p>
-
----
-
 ### ⚙️ Tech stack
 ```txt
 Python • C • Java • SQL
