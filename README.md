@@ -1,19 +1,33 @@
-### Hey 👋
+# Hey there! 👋  
+## In a nutshell:
 
-I build things. Mostly messy at first, useful later.
+I build things that try to be useful.  
+Mostly AI, accessibility, security, and experimental tools that start messy and slowly become real.
 
-Engineering student exploring AI, security, and real-world software — not just tutorial projects.
+Engineering student → learning by shipping projects instead of collecting tutorials.
 
-- 🔭 Currently building: AI tools, accessibility apps, compliance platform  
-- 🌱 Learning: Flutter, practical cybersecurity, better system design  
-- 👯 Open to: collabs, hackathons, strange but useful ideas  
-- 💬 Ask me about: Python, beginner web dev, project building from scratch  
-- 📫 Reach me: hharrii05@gmail.com  
+---
 
-**Recent rabbit holes**
-- Voice-based tech for accessibility  
-- Argument analysis with AI  
-- Offline ML apps  
-- “Build first, polish later” workflow  
+### 🚧 What I'm doing right now
+- Building practical AI tools  
+- Working on accessibility-focused apps  
+- Exploring cybersecurity hands-on  
+- Getting better at system design & core CS  
 
-> I like projects that do something real — even if they’re imperfect.
+---
+
+### 🧠 Projects zone
+- 🗣 Echo Mail — voice-based email for visually impaired users  
+- 🤖 Debate Coach — detects weak arguments & logical fallacies  
+- ✋ Sign → Text — offline Flutter + TFLite app  
+- 🎮 Escape the Chat — AI puzzle game  
+- 📊 AI Compliance Platform — structured compliance automation  
+
+---
+
+### ⚙️ Tech stack
+```txt
+Python • C • Java • SQL
+React • Next.js • Flask
+Flutter • TensorFlow Lite
+MySQL • Git • macOS
