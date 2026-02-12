@@ -17,11 +17,11 @@ Engineering student → learning by shipping projects instead of collecting tuto
 ---
 
 ### 🧠 Projects zone
-- 🗣 Echo Mail — voice-based email for visually impaired users  
-- 🤖 Debate Coach — detects weak arguments & logical fallacies  
+- 🔊 Volumic — macOS volume controller for managing audio separately across tabs & apps  
+- 🏪 Inventory Management System — prebook & order college store items, pick up hassle-free, pay online  
 - ✋ Sign → Text — offline Flutter + TFLite app  
 - 🎮 Escape the Chat — AI puzzle game  
-- 📊 AI Compliance Platform — structured compliance automation  
+- 📊 AI Compliance Platform — structured compliance automation
 
 ---
 
